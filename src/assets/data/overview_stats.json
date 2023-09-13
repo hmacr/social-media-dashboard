@@ -1,0 +1,58 @@
+[
+  {
+    "social_media_name": "facebook",
+    "stat_name": "page views",
+    "stat_value": "87",
+    "delta_type": "inc",
+    "delta_desc": "3%"
+  },
+  {
+    "social_media_name": "facebook",
+    "stat_name": "likes",
+    "stat_value": "52",
+    "delta_type": "dec",
+    "delta_desc": "2%"
+  },
+  {
+    "social_media_name": "instagram",
+    "stat_name": "likes",
+    "stat_value": "5462",
+    "delta_type": "inc",
+    "delta_desc": "2257%"
+  },
+  {
+    "social_media_name": "instagram",
+    "stat_name": "profile views",
+    "stat_value": "52k",
+    "delta_type": "inc",
+    "delta_desc": "1375%"
+  },
+  {
+    "social_media_name": "twitter",
+    "stat_name": "retweets",
+    "stat_value": "117",
+    "delta_type": "inc",
+    "delta_desc": "303%"
+  },
+  {
+    "social_media_name": "twitter",
+    "stat_name": "likes",
+    "stat_value": "507",
+    "delta_type": "inc",
+    "delta_desc": "553%"
+  },
+  {
+    "social_media_name": "youtube",
+    "stat_name": "likes",
+    "stat_value": "107",
+    "delta_type": "dec",
+    "delta_desc": "19%"
+  },
+  {
+    "social_media_name": "youtube",
+    "stat_name": "total views",
+    "stat_value": "1407",
+    "delta_type": "dec",
+    "delta_desc": "12%"
+  }
+]

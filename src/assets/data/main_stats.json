@@ -1,0 +1,34 @@
+[
+  {
+    "social_media_name": "facebook",
+    "profile_handle": "@nathanf",
+    "stat_name": "followers",
+    "stat_value": "1987",
+    "delta_type": "inc",
+    "delta_desc": "12 today"
+  },
+  {
+    "social_media_name": "twitter",
+    "profile_handle": "@nathanf",
+    "stat_name": "followers",
+    "stat_value": "1044",
+    "delta_type": "inc",
+    "delta_desc": "99 today"
+  },
+  {
+    "social_media_name": "instagram",
+    "profile_handle": "@realnathanf",
+    "stat_name": "followers",
+    "stat_value": "11k",
+    "delta_type": "inc",
+    "delta_desc": "1099 today"
+  },
+  {
+    "social_media_name": "youtube",
+    "profile_handle": "Nathan F.",
+    "stat_name": "subscribers",
+    "stat_value": "8239",
+    "delta_type": "dec",
+    "delta_desc": "144 today"
+  }
+]
